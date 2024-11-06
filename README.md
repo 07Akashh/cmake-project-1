@@ -1,5 +1,3 @@
-Sure! Below is a full `README.md` for your project that includes explanations, setup instructions, and commands to run the project.
-
 ```markdown
 # Square Root Calculation Project
 
