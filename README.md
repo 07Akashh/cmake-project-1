@@ -1,4 +1,4 @@
-```markdown
+
 # Square Root Calculation Project
 
 This is a simple C++ project that calculates the square root of a number entered by the user. The project demonstrates the use of CMake for project setup, library linking, and basic input/output operations in C++.
@@ -137,7 +137,7 @@ This project demonstrates a simple approach to user interaction, function modula
 
 **Author**: Rahul  
 **License**: MIT
-```
+
 
 ### How This Works:
 
